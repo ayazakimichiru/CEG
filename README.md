@@ -10,4 +10,4 @@
 ## 📌 Usage  
 ### Download the dataset  
 ```bash
-git clone <https://github.com/ayazakimichiru/CEG>
+git clone https://github.com/ayazakimichiru/CEG
