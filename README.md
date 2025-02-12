@@ -4,7 +4,7 @@
 
 ## 📂 Dataset Overview  
 - **Total Samples:** 3,973 specific event instances  
-- **Abstract Event Classes:** 7 categories (*operation, action, stateChange, statement, emergency, movement, perception*)  
+- **Abstract Event Classes:** operation(操作), action(动作), stateChange(状态变化), statement(声明), emergency(紧急情况), movement(移动), perception(感知)
 - **Format:** XML
 
 ## 📌 Usage  
