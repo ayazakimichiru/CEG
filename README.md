@@ -1,6 +1,6 @@
 # CEG
 
-**CEG (Chinese Event Generalization) Dataset** is an open-source dataset designed for evaluating **event generalization** capabilities in Large Language Models (LLMs). It provides annotated specific events mapped to abstract event classes, supporting **zero-shot** and **few-shot in-context learning (ICL)** evaluations.
+**CEG (Chinese Event Generalization) Dataset** is the first open-source dataset designed for evaluating **event generalization** capabilities, providing annotated specific events mapped to abstract event classes.
 
 ## 📂 Dataset Overview  
 - **Total Samples:** 3,973 specific event instances  
